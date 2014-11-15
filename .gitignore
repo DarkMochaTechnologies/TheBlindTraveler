@@ -17,6 +17,10 @@ $RECYCLE.BIN/
 # =========================
 # Operating System Files
 # =========================
+/Binaries
+/DerivedDataCache
+/Intermediate
+/Saved
 
 # OSX
 # =========================
